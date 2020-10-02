@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <<title>Pemprograman Web1</title>
+      </head>
+      <body>
+          <body BGCOLOR="red">
+              <font color="white">
+              <h1>Pemprograman Web 1</h1>
+              <p> Nama	: Nur Kholis Putra</p>
+              <p> NIM	: 181011400433</p>
+              <p>Tugas Pertemuan 5</p>
+              
+      <p>Hello ini adalah dokumen html pertama saya</p>
+        <h1>Halaman Ketiga</h1>
+         <a href="https://github.com/kholis321/README-md" target="_blank">KLIK DISINI</a> Untuk Ke Halaman Selanjutnya <br> <br>
+         
+         <a href="http://www.google.com" target="_blank">KLIK DISINI</a> Untuk Ke Google <br> <br>
+         <a href="https://www.youtube.com/" target="_blank">KLIK DISINI</a> Untuk Ke Youtube <br> <br>
+         <a href="halaman1.html" target="_blank">KLIK DISINI</a> Untuk Kembali Ke Halaman Pertama <br> <br>
+         </font color="white">
+         <img src="foto.JPEG" alt="mybanner" width="120px" height="145" align="center"title="banner">
+    </body>
+</html>
